@@ -1,7 +1,7 @@
 # Bitmessage Proof-of-Work
 
 An alternative Proof-of-Work (PoW) worker library for [Bitmessage][bitmessage],
-written in Rust. It's part of my learning experience with Rust ([see my blog][blog])
+written in Rust. It's part of my learning experience with Rust ([see my blog][blog]).
 
 Build the dynamic library file `libbmpow.so` with:
 
@@ -28,7 +28,7 @@ to call this library, for example something like this:
         target = int(target)
         return _doRustPow(target, initialHash)
 
-[blog]: https://gergely.imreh.net/blog/2015/11/language-of-the-month-rust/ "Language of the Month: Rust"
+[blog]: https://gergely.imreh.net/blog/2015/12/lotm-rust-results/ "Language of the Month: Rust, the results"
 [bitmessage]: https://bitmessage.org/wiki/Main_Page "Bitmessage Wiki"
 [pybitmessage]: https://github.com/Bitmessage/PyBitmessage
 
