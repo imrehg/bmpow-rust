@@ -4,7 +4,6 @@ version = "0.1.0"
 authors = ["Gergely Imreh <imrehg@gmail.com>"]
 
 [dependencies]
-byteorder = "^0.4"
 num_cpus = "^0.2"
 rust-crypto = "^0.2"
 
