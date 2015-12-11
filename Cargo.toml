@@ -1,6 +1,6 @@
 [package]
 name = "bmpow"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Gergely Imreh <imrehg@gmail.com>"]
 
 [dependencies]
